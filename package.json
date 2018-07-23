@@ -1,0 +1,11 @@
+{
+  "name": "socketio demo",
+  "version": "1.0.1",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "mine": "^0.1.0"
+  },
+  "devDependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
